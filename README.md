@@ -1,4 +1,4 @@
-# FPGA-VHDL
+# 4-bit Counter
 --4bit Counter, using USIM Library
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
